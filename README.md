@@ -5,7 +5,7 @@ A production-grade Next.js frontend for the Token-Based Booking System smart con
 ## Stack
 
 - **Next.js** (App Router)
-- **TypeScript** — fully typed
+- **TypeScript** — fully typed 
 - **ethers.js v6** — wallet + contract interactions
 - **Tailwind CSS** — utility-first styling
 - **Custom design system** — dark, acid-green aesthetic with Syne + JetBrains Mono fonts
