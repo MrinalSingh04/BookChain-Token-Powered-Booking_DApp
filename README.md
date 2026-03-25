@@ -3,7 +3,7 @@
 A production-grade Next.js frontend for the Token-Based Booking System smart contracts deployed on Sepolia testnet.
 
 ## Stack  
-   
+    
 - **Next.js** (App Router)   
 - **TypeScript** — fully typed   
 - **ethers.js v6** — wallet + contract interactions
