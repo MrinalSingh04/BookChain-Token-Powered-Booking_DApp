@@ -10,7 +10,7 @@ A production-grade Next.js frontend for the Token-Based Booking System smart con
 - **Tailwind CSS** — utility-first styling
 - **Custom design system** — dark, acid-green aesthetic with Syne + JetBrains Mono fonts
 
-## Features
+## Features 
  
 - 🔗 MetaMask wallet connection with Sepolia auto-switch
 - 📊 Dashboard with live on-chain stats (token balance, service count, booking count)
